@@ -1,6 +1,7 @@
 <img align="right" src="Icons/375px-Dreissena_polymorpha3.jpg" width="250" style="margin-top: 40px">
 
 # Understanding the complex dynamics of zebra mussel invasions over several decades in European rivers: drivers, impacts, and predictions
+## Leader: Phillip J. Haubrock
 ### Senckenberg Research Institute and Natural History Museum Frankfurt
 ### University of South Bohemia Ceske Budejovice
 

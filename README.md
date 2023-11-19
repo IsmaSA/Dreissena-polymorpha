@@ -1,3 +1,5 @@
+<img align="right" src="Icons/375px-Dreissena_polymorpha3.jpg" width="250" style="margin-top: 40px">
+
 # Understanding the complex dynamics of zebra mussel invasions over several decades in European rivers: drivers, impacts, and predictions
 ### Senckenberg Research Institute and Natural History Museum Frankfurt
 ### University of South Bohemia Ceske Budejovice
@@ -13,3 +15,6 @@ Code created by: <a href="https://www.researchgate.net/profile/Ismael-Soto-4">Is
 [<img target="_blank" alt="Ismael Soto | Mail" width="90px" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail] 
 
 [mail]: mailto:isma-sa@hotmail.com
+
+<img align="right" src="Icons/Logo_(with_name)_of_University_of_South_Bohemia.svg (1).png" width="300" style="margin-top: 80px">                                                                                    
+ <img align="right" src="Icons/descarga (1).png" width="300" style="margin-top: 80px">
